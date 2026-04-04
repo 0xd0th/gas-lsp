@@ -1,0 +1,20 @@
+# build
+build/
+
+# arquivos gerados pelo cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# clangd
+compile_commands.json
+.cache/
+
+# binários
+*.o
+*.out
+*.exe
+
+# temporários
+*.swp
